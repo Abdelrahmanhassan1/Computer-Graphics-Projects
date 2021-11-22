@@ -1,16 +1,3 @@
-# task1-robot-arm-kai-team
-
----
-
-### Team Members:
-
-- Abdelrahman Hassan Marei
-- Abdelrahman Ashraf Fathi
-- Mohamed Magdy
-- Andrew Mohsen
-
----
-
 For The Requirment 1: (Drawing Robot Arm Fingers) <br>
 
 <p>First We needed to draw the shoulder and the elbow of the arm with the help of Push and Pop Matrix.<br>

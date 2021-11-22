@@ -1,11 +1,3 @@
-# task2-full-robot-kai-team
-
-# Team Members:
-Abdelrahman Hassan Marei
-Abdelrahman Ashraf Fathi
-Mohamed Magdy AbdElhady
-Andrew Mohsen
-
 # The Requirment was to draw a full Robot:
 
 ## First we designed the robot to be like a human:
